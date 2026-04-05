@@ -18,7 +18,7 @@ const App = () => {
   
   })
 
-  console.log(task);
+  // console.log(task);
 
   const submitHandler = (e) => {
     e.preventDefault()
